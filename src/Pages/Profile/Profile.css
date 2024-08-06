@@ -1,0 +1,40 @@
+.profile-main {
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.profile-main img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.profile-main h1 {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21.09px;
+}
+
+.personalData {
+  display: flex;
+  flex-direction: column;
+}
+
+.personalData h1 {
+  padding: 10px 15px;
+  border-bottom: 1px solid #00000033;
+}
+
+.personalData h1 span {
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 14.06px;
+}
+
+.personalData h1 p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18.75px;
+}
